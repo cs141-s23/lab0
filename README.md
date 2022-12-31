@@ -402,6 +402,13 @@ without affecting your prior submission.
 Gradescope just for a stress-free trial of the submission procedure. An
 ungraded assignment is open on Gradescope.
 
+![image](img/autograder.png)
+
+After submission, you can check the Gradescope autograder output to get an 
+estimate of your performance for the given lab.  Occasionally, test cases will 
+be hidden until after the deadline.  On the ``Code" tab, you can scroll through 
+files and find in-line comments on your work *after* grading is complete.
+
 
 
 ##### Updated 12/30/22, Dhilan Ramaprasad
