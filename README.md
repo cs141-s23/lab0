@@ -20,7 +20,7 @@ Through this guide, you will learn the fundamentals for:
 
 ## Retrieving Handout
 
-Please click this [link](https://classroom.github.com/a/K-4mg3gU) to
+Please click this [link](https://classroom.github.com/a/10gNkAVb) to
 clone the Lab 0 handout code repository.
 
 The link will ask you to log in and then first join our classroom, 
@@ -34,7 +34,7 @@ just create your own single-person team.
 Then you’ll be able to accept the assignment, after which point GitHub
 classroom will make a private clone of the handout repository. For
 instance, if your team name was example-team, after a few minutes you
-should get a repository called `cs141-s21/lab-0-example-team`.
+should get a repository called `cs141-s23/lab-0-example-team`.
 
 ![image](img/example_team.png)
 
@@ -47,7 +47,7 @@ branch).
 
 **To recap, here’s how it should work:**  
 
-1.  Click the [link](https://classroom.github.com/a/K-4mg3gU).
+1.  Click the [link](https://classroom.github.com/a/10gNkAVb).
 
 2.  Log in to GitHub, or create an account.
 
@@ -404,5 +404,5 @@ ungraded assignment is open on Gradescope.
 
 
 
-##### Updated 1/6/22, Dhilan Ramaprasad
+##### Updated 12/30/22, Dhilan Ramaprasad
 
